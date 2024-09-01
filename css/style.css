@@ -1,0 +1,30 @@
+header{
+    background: aliceblue;
+    }
+h1 {
+    color: blue;
+}
+.container{
+    margin-left: 60px;
+    margin-bottom: -70px;
+}
+
+.main-tittle{
+    font-size: xxx-large;
+    color: red;
+}
+
+.main-text{
+    font-size: x-large;
+    color: #cab81e;
+}
+
+.main img{
+    width: 80%;
+    height: 500px;
+}
+
+.main-website{
+    margin-bottom: 100px;
+    margin-left: 500px;
+}
