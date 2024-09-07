@@ -1,0 +1,217 @@
+.wrapper {
+    width: 750px;
+    padding: 34px;
+    margin: auto
+}
+
+.table {
+    width: 100%;
+    margin: 30px;
+    display: table 
+}
+
+
+.row {
+    display: ruby-text;
+    margin-bottom: 4px;
+    padding: 2px;
+}
+
+.cell-Age {
+    margin-left: -8px;
+}
+
+.cell-Occ {
+    width: 25%;
+    margin: -8%;
+    margin-right: -65px;
+}
+
+.cell-Loc {
+    width: 14%;
+}
+
+.cell-Brook {
+    width: 14%;
+}
+
+.cell-27 {
+    display: inline-block;
+    width: 4%;
+    margin-left: 2px;
+}
+
+.cell-Proj {
+    width: 24%;
+}
+
+.cell-26 {
+    display: inline-block;
+    width: 2%;
+    margin-bottom: auto;
+    margin-left: -40px;
+}
+
+.cell-UXAr {
+    width: 22%
+}
+
+.cell-Arlin {
+    width: 14%;
+}
+
+
+.cell-25-25 {
+    margin-left: -22px;
+}
+
+.cell-Front {
+    width: 24%;
+    margin-right: -13px;
+}
+
+.cell-Bost {
+    width: 14%
+}
+
+.cell-27ap {
+
+}
+
+.cell-uni {
+    padding-left: 168px;
+}
+
+.cell-quan {
+    padding-right: 40px;
+}
+
+.cell-date {
+    padding-right: 44px;
+}
+
+.cell-stat {
+    padding-right: 87px;
+}
+
+.cell-800 {
+    padding-left: 57px;
+}
+
+.cell-10 {
+    padding-right: 16px;
+}
+
+.cell-0315 {
+    padding-left: 31px;
+}
+
+.cell-45 {
+    padding-left: 29px;
+}
+
+.cell-120 {
+    padding-left: 6px;
+}
+
+.cell-0228 {
+    padding-left: 34px;
+}
+
+.cell-in {
+    padding-right: 58px;
+}
+
+.cell-1000 {
+    padding-right: 110px;
+    margin-left: -10px;
+}
+
+.cell-25 {
+    padding-right: 50px;
+    margin-left: -110px;
+}
+
+.cell-0210 {
+    padding-right: 14px;
+    margin-right: -6px;
+}
+
+.cell-deliv1 {
+    padding-right: 56px;
+}
+
+.cell-60 {
+    margin-left: -68px;
+    padding-left: 90px;
+}
+
+.cell-90 {
+    margin-left: -3px;
+    padding-left: 3px;
+}
+
+.cell-0114 {
+    padding-left: 31px;
+    margin-right: -10px;
+}
+
+.cell-deliv2 {
+    padding-right: 56px;
+}
+
+.cell-mist {
+    margin-right: 25px;
+    padding-left: 38px;
+}
+
+.cell-1 {
+    padding-right: 121px;
+    margin-right: -164px;
+}
+
+.cell-yes1 {
+    padding-right: 77px;
+}
+
+.cell-jos {
+    padding-left: 97px;
+    margin-left: -23px;
+}
+
+.cell-2 {
+    padding-left: 70px;
+}
+
+.cell-no {
+    padding-right: 78px;
+}
+
+.cell-hack {
+    padding-left: 116px;
+    padding-right: 42px;
+    margin-left: -22px
+}
+
+.cell-3 {
+    padding-left: 99px;
+    padding-right: 73px;
+    margin-right: -27px;
+    margin-left: -31px;
+}
+
+.cell-yes2 {
+    padding-right: 89px;
+}
+
+.cell-harry {
+    padding-left: 46px;
+}
+
+.cell-4 {
+    padding-left: 87px;
+}
+
+.cell-yes3 {
+    padding-right: 73px;
+}
