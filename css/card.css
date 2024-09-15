@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    background-color: #335de7;
+    font-weight: bold;
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
+
+#header h1 {
+    text-align: center;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #335de7
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.card {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px 5px;
+    width: 100%;
+    height: 60%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 225px);
+    width: 100%;
+    max-width: 1000px;
+    justify-content: center;
+    justify-items: center;
+    column-gap: 30px;
+    row-gap: 40px;
+    margin: 0 auto;
+}
+
+img {
+
+    width: 100%;
+    height: 100%;
+
+}
+
+button {
+    background-color: #335de7;
+    border-radius: 4px;
+    border: none;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    position: absolute;
+    bottom: -500px;
+    width: 100%;
+}
+
+.card a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
